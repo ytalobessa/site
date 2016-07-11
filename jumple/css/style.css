@@ -127,7 +127,7 @@ hr.trace {
 .contato-form span {color: #fff; display: block; font-weight: 300;}
 .contato-form input,
 .contato-form textarea {padding: 2% 2%; width: 100%; border: 2px solid #ccc;}
-.form-btn {background-color: #FFC200; color: #fff; cursor: pointer; border: none !important; font-size: 2em; font-weight: 600; padding: 2% 2%; width: 100%;}
+.form-btn {background-color: #FFC200; color: #fff; cursor: pointer; border: none !important; font-size: 2em; font-weight: 600; padding: 2% 2%; width: 100%; -webkit-transition:all 0.3s ease; transition:all 0.3s ease;}
 .form-btn:hover {background-color: #FFCE00;}
 
 /*DEPOIMENTOS*/
