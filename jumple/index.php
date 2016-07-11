@@ -46,13 +46,13 @@
 	    <div class="container-fluid">
 			  <div class="navbar-header">
 			  	<div class="icones-sociais">
-				  	<a class="" href="https://www.facebook.com/jumpledesign/">
+				  	<a class="" href="https://www.facebook.com/jumpledesign/" target="_blank">
 		        	<img alt="" src="imagens/fb.png">
 		      	</a>
-		      	<a class="" href="#">
+		      	<a class="" href="#" target="_blank">
 		        	<img alt="" src="imagens/instagram.png">
 		      	</a>
-		      	<a class="" href="https://plus.google.com/116727413074390018571">
+		      	<a class="" href="https://plus.google.com/116727413074390018571" target="_blank">
 		        	<img alt="" src="imagens/gg.png">
 		      	</a>
 	      	</div>
@@ -370,7 +370,7 @@
 					<textarea rows="4" name="Mensagem" title="Mensagem"></textarea>
 				</label>
 
-				<input type="submit" class="form-btn mg-tp-2" name="Enviar" value="Enviar">
+				<input type="submit" class="form-btn mg-tp-2" name="Enviar" value="ENVIAR">
 	  	</form>
 
 	  	<!-- depoimentos -->
@@ -378,9 +378,9 @@
 	  		<h1 class="title-depoimentos">ALGUNS DEPOIMENTOS DE CLIENTES</h1>
 
 	  		<article class="depoimento">
-	  			<img title="Depoimento" src="imagens/perfil.png" alt="Depoimento">
-	  			<h1><span itemprop="author">Ítalo Bessa></span> <br> CEO | Jumple</h1>
-	  			<p><span itemprop="reviewBody">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</span></p>
+	  			<img title="Depoimento" src="imagens/sol.jpg" alt="Depoimento">
+	  			<h1><span itemprop="author">Sostenes Alves</span> <br> Consultor | Hinode</h1>
+	  			<p><span itemprop="reviewBody">"Um trabalho profissional e de qualidade, voltaria a fazer trabalhos com certeza! Nota 10!"</span></p>
 	  		</article>
 
 	  		<article class="depoimento">
