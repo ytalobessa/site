@@ -112,7 +112,7 @@ hr.trace {
 .conversao {background-color: rgba(255,255,255,0.8); background: url(../imagens/conversao.png) no-repeat center center fixed; height: 500px;}
 .conversao p {color: #fff; font-size: 2.563em; font-weight: 300;}
 .text-blue {color: #07E5DF; font-weight: 600;}
-.botao {background-color: #00B3B2;}
+.botao {background-color: #00B3B2; -webkit-transition:all 0.3s ease; transition:all 0.3s ease;}
 .botao:hover {background-color: #FFC200;}
 .botao p {color: #fff; font-size: 2.563em; font-weight: 600; margin-top: 2%;}
 .botao-link {color: #fff; font-weight: 600;}
@@ -128,14 +128,14 @@ hr.trace {
 .contato-form input,
 .contato-form textarea {padding: 2% 2%; width: 100%; border: 2px solid #ccc;}
 .form-btn {background-color: #FFC200; color: #fff; cursor: pointer; border: none !important; font-size: 2em; font-weight: 600; padding: 2% 2%; width: 100%;}
-
+.form-btn:hover {background-color: #FFCE00;}
 
 /*DEPOIMENTOS*/
 .depoimentos {padding: 2% 1% 2% 1%;}
 .depoimentos h1 {color: #fff; font-size: 1.5em; font-weight: 400;}
 .depoimento {display: block;}
-.depoimento img {float: left;}
-.depoimento h1 {padding: 6% 0 0 25%;}
+.depoimento img {float: left; width: 80px; height: 80px; border-radius: 50%; margin-right: 20px;}
+.depoimento h1 {padding: 15px 0 0 0;}
 .depoimento p {color: #fff; margin-top: 5%;}
 
 
