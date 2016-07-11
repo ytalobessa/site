@@ -42,7 +42,8 @@ function smtpmailer($para, $de, $de_nome, $assunto, $corpo) {
 
  if (smtpmailer('italobessa.ib@gmail.com', 'italobessa.ib@gmail.com', 'Nome do Enviador', 'Assunto do Email', $Vai)) {
 
-	Header("location:http://localhost/jumple/"); // Redireciona para uma página de obrigado.
+	
+	// Header("location:http://localhost/jumple/"); // Redireciona para uma página de obrigado.
 
 }
 if (!empty($error)) echo $error;
