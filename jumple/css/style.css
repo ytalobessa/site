@@ -148,6 +148,13 @@ hr.trace {
 .jumple {margin-right: 3%;}
 
 
+/*PÁGINA DE EMAIL ENVIADO DO FORMULÁRIO*/
+.enviado {margin-top: 6%;}
+.enviado h1 {font-size: 3.188em;}
+.enviado p {font-size: 2em;}
+.enviado a {font-size: 1.563em;}
+.enviado a:hover {color: #FFC200; text-decoration: none;}
+
 /*EFEITO HOVER NA IMAGEM */
 .hoverzoom {
   position: relative;
