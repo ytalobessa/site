@@ -46,7 +46,7 @@
 	    <div class="container-fluid">
 			  <div class="navbar-header">
 			  	<div class="icones-sociais">
-				  	<a class="" href="https://www.facebook.com/jumpledesign/" target="_blank">
+				  	<a class="" href="https://www.facebook.com/Jumple-Identidade-Visual-e-Publicidade-Online-279038319115850/" target="_blank">
 		        	<img alt="" src="imagens/fb.png">
 		      	</a>
 		      	<a class="" href="https://www.instagram.com/jumple.jp/" target="_blank">
