@@ -48,6 +48,7 @@ hr.trace {
 /*MENU*/
 .nav {padding: 2% 7% 0 0;}
 .navbar-default .navbar-nav > li > a {font-weight: 300;}
+.main_header {background-color: transparent;}
 .icones-sociais {margin: 12% 0 0 50%; width: 200px;}
 @media (max-width: 760px) {
   .icones-sociais {

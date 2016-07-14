@@ -28,7 +28,7 @@
 
   <link rel="stylesheet" href="css/bootstrap.css"/>
   <link rel="stylesheet" type="text/css" href="css/style.css"/>
-  <link rel="stylesheet" type="text/css" href="css/animate.css"/>
+  <link rel="stylesheet" type="text/css" href="css/vendors/animate.css"/>
 
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
   <link rel="shortcut icon" href="imagens/icon-short.png">
@@ -417,11 +417,10 @@
 	  </div>
 	</section>
 
-	  <script src="js/jquery.js"></script>
-  	<script src="js/slimbox2.js"></script>
+	  <script src="js/vendors/jquery.js"></script>
 	  <script src="js/script.js"></script>
-	  <script src="js/bootstrap.min.js"></script>
-	  <script src="js/wow.min.js"></script>
+	  <script src="js/vendors/bootstrap.min.js"></script>
+	  <script src="js/vendors/wow.min.js"></script>
 	  <script>
       new WOW().init();
     </script>
