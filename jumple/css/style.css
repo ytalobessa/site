@@ -27,11 +27,13 @@ hr.trace {
 /*MARGENS*/
 .mg-bt-2 {margin-bottom: 2%;}
 .mg-bt-3 {margin-bottom: 3%;}
+.mg-bt-4 {margin-bottom: 4%;}
 .mg-bt-5 {margin-bottom: 5%;}
 
 .mg-tp-1 {margin-top: 1%;}
 .mg-tp-2 {margin-top: 2%;}
 .mg-tp-3 {margin-top: 3%}
+.mg-tp-4 {margin-top: 4%}
 .mg-tp-5 {margin-top: 5%;}
 .mg-tp-10 {margin-top: 10%;}
 
@@ -122,7 +124,7 @@ hr.trace {
 /*CONTATO*/
 .contato {background: url(../imagens/contato.png) no-repeat center center fixed;background-size: cover;}
 .contato h1 {color: #fff;}
-.contato-form {padding: 2% 1% 2% 1%;}
+.contato-form {padding: 1% 1% 2% 1%;}
 .contato-form h1 {color: #fff; font-size: 1.5em; font-weight: 400;}
 .contato-form label {display: block; width: 100%;}
 .contato-form span {color: #fff; display: block; font-weight: 300;}
@@ -132,7 +134,7 @@ hr.trace {
 .form-btn:hover {background-color: #FFCE00;}
 
 /*DEPOIMENTOS*/
-.depoimentos {padding: 2% 1% 2% 1%;}
+.depoimentos {padding: 1% 1% 2% 1%;}
 .depoimentos h1 {color: #fff; font-size: 1.5em; font-weight: 400;}
 .depoimento {display: block;}
 .depoimento img {float: left; width: 80px; height: 80px; border-radius: 50%; margin-right: 20px;}

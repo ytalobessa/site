@@ -70,7 +70,7 @@
 					  <li><a href="#work">TRABALHO</a></li>
 					  <li><a href="#portfolio">PORTFÓLIO</a></li>
 					  <li><a href="#contato">CONTATO</a></li>
-					  <li><a href="#conversao"><span class="text-brand">SOLICITAR ORÇAMENTO</span></a></li>
+					  <li><a href="#contato"><span class="text-brand">SOLICITAR ORÇAMENTO</span></a></li>
 		      </ul>
 		    </div>
     	</div>
@@ -340,10 +340,10 @@
 	<!-- CONTATO -->
 	<section class="container-fluid contato">
 		<div class="content">
-			<center><h1 class="mg-tp-5">Contato</h1></center>
+			<center><h1 class="mg-tp-4">Contato</h1></center>
 		  
 			<!-- formulário -->
-		  <form action="email.php" method="post" class="contato-form col-md-17 mg-bt-5">
+		  <form action="email.php" method="post" class="contato-form col-md-17 mg-bt-4">
 		  	<h1>SOLICITE UM ORÇAMENTO OU ENTRE EM CONTATO!</h1>
 
 				<label for="nome">
