@@ -178,8 +178,8 @@
 		  <div class="row">
 
 		  	<!-- Modal 01-->
-			  <div class="col-md-12 hoverzoom">
-			  	<img src="imagens/pt-1.png" >
+			  <div class="col-sm-18 col-md-12 hoverzoom mg-tp-1">
+			  	<img src="imagens/pt-1.jpg" >
 				  	<div class="retina" data-toggle="modal" data-target="#modal-1">
 				  		<p>Web Design</p>
 				  	</div>
@@ -204,8 +204,8 @@
 				</div> <!-- /Final Modal 01 -->
 
 				<!-- Modal 02-->
-			  <div class="col-md-12 hoverzoom">
-			  	<img src="imagens/pt-2.png">
+			  <div class="col-sm-18 col-md-12 hoverzoom mg-tp-1">
+			  	<img src="imagens/pt-2.jpg">
 			  	<div class="retina" data-toggle="modal" data-target="#modal-2">
 			  		<p>Logomarca</p>
 			  	</div>
@@ -230,13 +230,12 @@
 				</div> <!-- /Final Modal 02 -->
 
 				<!-- Modal 03-->
-			  <div class="col-md-12 hoverzoom">
-			  	<img src="imagens/pt-3.png">
+			  <div class="col-sm-18 col-md-12 hoverzoom mg-tp-1">
+			  	<img src="imagens/pt-3.jpg">
 			  	<div class="retina" data-toggle="modal" data-target="#modal-3">
 			  		<p>Design Gráfico</p>
 			  	</div>
 			  </div>
-		  </div>
 
 		  <div class="modal fade" id="modal-3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 				  <div class="modal-dialog" role="document">
@@ -256,11 +255,9 @@
 				  </div>
 				</div> <!-- /Final Modal 03 -->
 
-		  <div class="row mg-tp-2">
-
 		  	<!-- Modal 04-->
-			  <div class="col-md-12 hoverzoom">
-			  	<img src="imagens/pt-4.png">
+			  <div class="col-sm-18 col-md-12 hoverzoom mg-tp-1">
+			  	<img src="imagens/pt-4.jpg">
 			  	<div class="retina" data-toggle="modal" data-target="#modal-4">
 			  		<p>Logomarca</p>
 			  	</div>
@@ -285,8 +282,8 @@
 				</div> <!-- /Final Modal 04 -->
 
 				<!-- Modal 05-->
-			  <div class="col-md-12 hoverzoom">
-			  	<img src="imagens/pt-5.png">
+			  <div class="col-sm-18 col-md-12 hoverzoom mg-tp-1">
+			  	<img src="imagens/pt-5.jpg">
 			  	<div class="retina" data-toggle="modal" data-target="#modal-5">
 			  		<p>Marketing Digital</p>
 			  	</div>
@@ -311,8 +308,8 @@
 				</div> <!-- /Final Modal 05 -->
 
 				<!-- Modal 06-->
-			  <div class="col-md-12 hoverzoom">
-			  	<img src="imagens/pt-6.png">
+			  <div class="col-sm-18 col-md-12 hoverzoom mg-tp-1">
+			  	<img src="imagens/pt-6.jpg">
 			  	<div class="retina" data-toggle="modal" data-target="#modal-6">
 			  		<p>Logomarca</p>
 			  	</div>
@@ -335,9 +332,8 @@
 				    </div>
 				  </div>
 				</div> <!-- /Final Modal 06 -->
-		  </div> <!-- Final da "ROW"-->
-
-	  </div>
+			</div> <!-- /Final da "ROW" -->
+	  </div> <!-- /Final da Content -->
 	</section>
 	  
 
