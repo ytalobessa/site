@@ -412,7 +412,7 @@
 
 		  <article class="col-md-11 col-me-offset-1">
 				<h1><span class="glyphicon glyphicon-send"></span>Contato</h1>
-				<p><span class="glyphicon glyphicon-earphone"></span><span itemprop="telephone">(85) 9 8956-4640</span> <br><span class="glyphicon glyphicon-envelope"></span><span itemprop="email">italobessa.ib@gmail.com</span> <br><hr>2016 © JUMPLE | Todos os Direitos Reservados.</p>
+				<p><span class="glyphicon glyphicon-earphone"></span><span itemprop="telephone">(85) 9 8956-4640</span> <br><span class="glyphicon glyphicon-envelope"></span><span itemprop="email">contato@jumple.com.br</span> <br><hr>2016 © JUMPLE | Todos os Direitos Reservados.</p>
 		  </article>
 	  </div>
 	</section>
