@@ -397,7 +397,7 @@
 
 	  <div class="row content mg-bt-2 mg-tp-2">
 		  <article class="col-md-11">
-				<h1><img class="jumple" src="imagens/jumple.png">Quem Somos</h1>
+				<h1><img class="jumple" src="imagens/jumple.png">A Jumple</h1>
 				<p>A <span itemprop="name">Jumple</span><span itemprop="description">é formada por uma equipe que trabalha constantemente na melhoria da Identidade Visual e na Publicidade Online das empresas e profissionais, localizada em Fortaleza/CE.</p>
 				<p>Nosso objetivo é mostrar que a identidade e publicidade são tão importantes quanto o produto.</span></p>
 		  </article>
