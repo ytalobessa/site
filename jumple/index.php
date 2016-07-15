@@ -194,7 +194,7 @@
 				        <span class="label label-info">Web Design</span>
 				      </div>
 				      <div class="modal-body">
-				        <center><img class="img-responsive" src="imagens/pt-1.png"></center><br>
+				        <center><img class="img-responsive" src="imagens/pt-1.jpg"></center><br>
 				      </div>
 				      <div class="modal-footer">
 				      	<p>Web Design ProCoach</p>
@@ -220,7 +220,7 @@
 				        <span class="label label-info">Logomarca</span><span class="label label-info">Identidade Visual</span>
 				      </div>
 				      <div class="modal-body">
-				        <center><img class="img-responsive" src="imagens/pt-2.png"></center><br>
+				        <center><img class="img-responsive" src="imagens/pt-2.jpg"></center><br>
 				      </div>
 				      <div class="modal-footer">
 				      	<p>Logomarca FábricaPluss</p>
@@ -246,7 +246,7 @@
 				        <span class="label label-info">Design Gráfico</span><span class="label label-info">Identidade Visual</span>
 				      </div>
 				      <div class="modal-body">
-				        <center><img class="img-responsive" src="imagens/pt-3.png"></center><br>
+				        <center><img class="img-responsive" src="imagens/pt-3.jpg"></center><br>
 				      </div>
 				      <div class="modal-footer">
 				      	<p>Design e Impressão dos Cartões do Consultor Hinode</p>
@@ -272,7 +272,7 @@
 				        <span class="label label-info">Logomarca</span><span class="label label-info">Identidade Visual</span>
 				      </div>
 				      <div class="modal-body">
-				        <center><img class="img-responsive" src="imagens/pt-4.png"></center><br>
+				        <center><img class="img-responsive" src="imagens/pt-4.jpg"></center><br>
 				      </div>
 				      <div class="modal-footer">
 				      	<p>Logomarca Cirurgia Plástica</p>
@@ -298,7 +298,7 @@
 				        <span class="label label-info">Web Design</span><span class="label label-info">Marketing Digital</span>
 				      </div>
 				      <div class="modal-body">
-				        <center><img class="img-responsive" src="imagens/pt-5.png"></center><br>
+				        <center><img class="img-responsive" src="imagens/pt-5.jpg"></center><br>
 				      </div>
 				      <div class="modal-footer">
 				      	<p>Página para conversão de Lead</p>
@@ -324,7 +324,7 @@
 				        <span class="label label-info">Logomarca</span><span class="label label-info">Identidade Visual</span>
 				      </div>
 				      <div class="modal-body">
-				        <center><img class="img-responsive" src="imagens/pt-6.png"></center><br>
+				        <center><img class="img-responsive" src="imagens/pt-6.jpg"></center><br>
 				      </div>
 				      <div class="modal-footer">
 				      	<p>Logomarca Revolution Coworking</p>
