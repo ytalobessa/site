@@ -9,22 +9,22 @@
 
   <link rel="author" href="https://plus.google.com/101865759852814510242/posts"/>
   <link rel="publisher" href="https://plus.google.com/116727413074390018571"/>
-  <link rel="canonical" href="">
+  <link rel="canonical" href="http://jumple.com.br/">
 
   <meta itemprop="name" content="Jumple"/>
   <meta itemprop="description" content="Identidade Visual e Publicidade Online"/>
-  <meta itemprop="image" content=""/>
-  <meta itemprop="url" content=""/> 
+  <meta itemprop="image" content="http://jumple.com.br/imagens/compartilhamento-facebook.jpg"/>
+  <meta itemprop="url" content="http://jumple.com.br/"/> 
        
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Jumple" />
   <meta property="og:description" content="Identidade Visual e Publicidade Online" />
-  <meta property="og:image" content="" />
-  <meta property="og:url" content="" />
+  <meta property="og:image" content="http://jumple.com.br/imagens/compartilhamento-facebook.jpg" />
+  <meta property="og:url" content="http://jumple.com.br/" />
   <meta property="og:site_name" content="Jumple" />
   <meta property="og:locale" content="pt_BR" />
   <meta property="article:author" content="https://www.facebook.com/brenda.rayane.564" />
-  <meta property="article:publisher" content="https://www.facebook.com/jumpledesign" />
+  <meta property="article:publisher" content="https://www.facebook.com/Jumple-Identidade-Visual-e-Publicidade-Online-279038319115850/" />
 
   <link rel="stylesheet" href="css/bootstrap.css"/>
   <link rel="stylesheet" type="text/css" href="css/style.css"/>
