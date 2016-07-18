@@ -10,8 +10,8 @@ $Vai 		= "Nome: $Nome\n\nE-mail: $Email\n\nTelefone: $Fone\n\nMensagem: $Mensage
 
 require_once("phpmailer/class.phpmailer.php");
 
-define('GUSER', 'contato@jumple.com.br');	// <-- Insira aqui o seu GMail
-define('GPWD', '9Ad067sPtk');		// <-- Insira aqui a senha do seu GMail
+define('GUSER', 'italobessa.ib@gmail.com');	// <-- Insira aqui o seu GMail
+define('GPWD', 'kyul071294');		// <-- Insira aqui a senha do seu GMail
 
 function smtpmailer($para, $de, $de_nome, $assunto, $corpo) { 
 	global $error;
@@ -19,9 +19,9 @@ function smtpmailer($para, $de, $de_nome, $assunto, $corpo) {
 	$mail->IsSMTP();		// Ativar SMTP
 	$mail->SMTPDebug = 0;		// Debugar: 1 = erros e mensagens, 2 = mensagens apenas
 	$mail->SMTPAuth = true;		// Autenticação ativada
-	$mail->SMTPSecure = 'ssl';	// SSL REQUERIDO pelo GMail
-	$mail->Host = 'linux04.nuvemidc.com'; //'smtp.gmail.com';	// SMTP utilizado
-	$mail->Port = 465;  		// A porta 587 deverá estar aberta em seu servidor
+	$mail->SMTPSecure = 'tls';	// SSL REQUERIDO pelo GMail
+	$mail->Host = 'smtp.gmail.com'; //'linux04.nuvemidc.com'; //	// SMTP utilizado
+	$mail->Port = 587;  		// A porta 587 deverá estar aberta em seu servidor
 	$mail->Username = GUSER;
 	$mail->Password = GPWD;
 	$mail->SetFrom($de, $de_nome);
@@ -40,9 +40,10 @@ function smtpmailer($para, $de, $de_nome, $assunto, $corpo) {
 // Insira abaixo o email que irá receber a mensagem, o email que irá enviar (o mesmo da variável GUSER), 
 // o nome do email que envia a mensagem, o Assunto da mensagem e por último a variável com o corpo do email.
 
- if (smtpmailer('contato@jumple.com.br', 'contato@jumple.com.br', 'Nome do Enviador', 'Assunto do Email', $Vai)) {
+ if (smtpmailer('italobessa.ib@gmail.com', 'italobessa.ib@gmail.com', 'Nome do Enviador', 'Assunto do Email', $Vai)) {
 
-	Header("/email-enviado.php"); // Redireciona para uma página de obrigado.
+	header("location:http://jumple.com.br/email-enviado.php"); // Redireciona para uma página de obrigado.
+	exit();
 
 }
 if (!empty($error)) echo $error;

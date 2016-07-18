@@ -12,7 +12,7 @@
 	<article class="enviado">
 		<center><h1 class="blue-title">Seu e-mail foi enviado com Sucesso!</h1></center>
 		<center><p class="blue-title">Em breve entraremos em contato.</p></center>
-		<center><a href="http://localhost/site/jumple/" class="blue-light">Voltar ao Site</a></center>
+		<center><a href="http://jumple.com.br/" class="blue-light">Voltar ao Site</a></center>
 	</article>
 
 </body>
