@@ -12,13 +12,13 @@
   <link rel="canonical" href="http://jumple.com.br/">
 
   <meta itemprop="name" content="Jumple - Identidade Visual e Publicidade Online"/>
-  <meta itemprop="description" content="Melhore sua marca, seu produto ou serviços com a Jumple, utilizamos as melhores ferramentas de Publicidade Online e Design! Trataremos seu projeto com carinho :)"/>
+  <meta itemprop="description" content="Melhore sua marca, seu produto ou serviços com a Jumple, utilizamos as melhores ferramentas de Publicidade Online e Design! E-mail: contato@jumple.com.br!"/>
   <meta itemprop="image" content="http://jumple.com.br/imagens/compartilhamento-facebook.png"/>
   <meta itemprop="url" content="http://jumple.com.br/"/> 
        
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Jumple - Identidade Visual e Publicidade Online" />
-  <meta property="og:description" content="Melhore sua marca, seu produto ou serviços com a Jumple, utilizamos as melhores ferramentas de Publicidade Online e Design! Trataremos seu projeto com carinho :)" />
+  <meta property="og:description" content="Melhore sua marca, seu produto ou serviços com a Jumple, utilizamos as melhores ferramentas de Publicidade Online e Design! E-mail: contato@jumple.com.br!" />
   <meta property="og:image" content="http://jumple.com.br/imagens/compartilhamento-facebook.png" />
   <meta property="og:url" content="http://jumple.com.br/" />
   <meta property="og:site_name" content="Jumple" />
